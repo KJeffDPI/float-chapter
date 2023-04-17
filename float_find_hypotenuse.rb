@@ -5,4 +5,8 @@
 # 
 # 5.3
 
+l1 = 4.4
+b1 = 4.6
 
+number = (Math.hypot(l1 ** 2, b1 ** 2))
+p Math.sqrt(number.round)
